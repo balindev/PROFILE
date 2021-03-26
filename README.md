@@ -6,7 +6,7 @@ i love to code and i love coding discord bots
 and I’m currently working on BalinBot (discord bot)
 
 ## Info 
-Discord - [![Discord Invite](https://img.shields.io/badge/Discord-AND8fk7-blue) <br />
+Discord - Balin#4359 <br />
 Website - https://balin.cc <br />
 YouTube - balin, https://www.youtube.com/channel/UCS66Vo5GFi0kM0ByclUqJOA.
 ![balin's github stats](https://github-readme-stats.vercel.app/api?username=balindev&show_icons=true&hide=issues&hide_border=true)
