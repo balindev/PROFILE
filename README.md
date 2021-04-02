@@ -1,5 +1,3 @@
-### balin's profile
-
 ## About me 
 hi im balin a student that learns python annd java
 i love to code and i love coding discord bots
