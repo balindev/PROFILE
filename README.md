@@ -1,7 +1,5 @@
-## About me 
-hi im balin a student that learns python annd java
-i love to code and i love coding discord bots
-and I’m currently working on nothing
+
+hi 
 
 ## Info 
 Discord - Balin#4359 <br />
